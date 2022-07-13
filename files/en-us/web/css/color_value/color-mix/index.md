@@ -17,7 +17,7 @@ The **`color-mix()`** functional notation takes two {{cssxref("color_value","col
 ## Syntax
 
 ```css
-color-mix(in lch, peru 40%, lightgoldenrod);
+color-mix(in lch, peru 40%, lightgoldenrodyellow);
 color-mix(in srgb, #34c9eb 20%, white);
 ```
 
